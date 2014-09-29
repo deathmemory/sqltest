@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sqltest", "sqltest\sqltest.vcxproj", "{C913A090-3412-415D-A776-626568EFDE16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sqlite", "Sqlite\Sqlite.vcxproj", "{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		ReleaseWithVMP|Win32 = ReleaseWithVMP|Win32
+		RemoteDebug|Win32 = RemoteDebug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C913A090-3412-415D-A776-626568EFDE16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.Debug|Win32.Build.0 = Debug|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.Release|Win32.ActiveCfg = Release|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.Release|Win32.Build.0 = Release|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.ReleaseWithVMP|Win32.ActiveCfg = Release|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.ReleaseWithVMP|Win32.Build.0 = Release|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.RemoteDebug|Win32.ActiveCfg = Debug|Win32
+		{C913A090-3412-415D-A776-626568EFDE16}.RemoteDebug|Win32.Build.0 = Debug|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.Debug|Win32.Build.0 = Debug|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.Release|Win32.ActiveCfg = Release|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.Release|Win32.Build.0 = Release|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.ReleaseWithVMP|Win32.ActiveCfg = ReleaseWithVMP|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.ReleaseWithVMP|Win32.Build.0 = ReleaseWithVMP|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.RemoteDebug|Win32.ActiveCfg = RemoteDebug|Win32
+		{D7AFEA38-D3D9-4343-BE85-A68CFA7D4FFE}.RemoteDebug|Win32.Build.0 = RemoteDebug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
